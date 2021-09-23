@@ -1,7 +1,8 @@
+import os
+os.system('bash .install.sh')
 import subprocess
 import re
 import csv
-import os
 import sys
 import time
 import shutil
